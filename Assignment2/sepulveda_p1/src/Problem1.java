@@ -22,10 +22,10 @@ public class Problem1 {
 		
 		int data2 = scnr.nextInt();
 
-		digit3 = (((data / 1000) % 10) - 7) % 10;
-		digit4 = (((data / 100) % 10) - 7) % 10;
-		digit1 = (((data / 10) % 10) - 7) % 10;
-		digit2 = (((data / 1) % 10) - 7) % 10;
+		digit3 = (((data2 / 1000) % 10) - 7) % 10;
+		digit4 = (((data2 / 100) % 10) - 7) % 10;
+		digit1 = (((data2 / 10) % 10) - 7) % 10;
+		digit2 = (((data2 / 1) % 10) - 7) % 10;
 
 		int decrypted = (digit1 * 1000) + (digit2 * 100) + (digit3 * 10) + digit4;
 		
