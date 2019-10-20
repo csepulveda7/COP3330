@@ -1,4 +1,4 @@
-public class Problem2 {
+public class SavingsAccount {
     public static void foo (){
         // Do Something
     }
