@@ -1,0 +1,12 @@
+POTATO: 3
+charger: 1
+HELLO: 3
+BOTTLE: 2
+CHARGER: 4
+IS: 1
+hello: 1
+MY: 2
+SPEAKER: 3
+HELL: 1
+KEY: 1
+NAME: 2
